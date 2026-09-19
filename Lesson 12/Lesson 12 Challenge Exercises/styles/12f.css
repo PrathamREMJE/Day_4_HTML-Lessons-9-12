@@ -1,0 +1,38 @@
+* {
+    font-family: Arial;
+}
+
+.header {
+    background-color: rgb(107, 61, 177);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.home-tab {
+    font-weight: bold;
+}
+
+.search-box {
+    width: 500px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.download-tab {
+    background-color: rgb(120, 82, 178);
+    color: white;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 2px;
+    padding: 20px;
+}
