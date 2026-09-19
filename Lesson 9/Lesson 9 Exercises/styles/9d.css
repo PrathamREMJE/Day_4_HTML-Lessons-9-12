@@ -1,0 +1,22 @@
+.title { 
+    font-family: Arial;
+    font-size: 25px;
+    margin: 0 0 15px 0; 
+    color: white;
+    font-weight: bold;
+    }
+
+.youtube-music { 
+    width: 400px;
+    padding: 18px;
+    background-color:   rgb(37, 37, 37); 
+}
+
+.desc { 
+    font-family: Arial;
+    font-size: 15px;
+    margin: 0 0 15px 0; 
+    color: rgb(218, 213, 213);
+    }
+
+
