@@ -1,0 +1,31 @@
+div {
+    text-align: center;
+}
+
+.google-logo {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.search-box {
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+}
+
+.google-button {
+    background-color: rgb(245, 245, 245);
+    border: none;
+    font-size: 15px;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.button-container .google-button:last-child {
+    margin-right: 0;
+}
